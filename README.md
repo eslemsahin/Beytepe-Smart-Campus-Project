@@ -1,8 +1,4 @@
-![alt text](https://github.com/GMT-352/midterm-project---ecosnap-api-eslemsahin/blob/main/readme%20images/Ads%C4%B1z.png)
-
-# GMT352 / GEOGRAPHIC INFORMATION SYSTEMS
-
-## 21967756 ESLEM ŞAHİN
+## ESLEM ŞAHİN
 
 # FINAL PROJECT, SPRING 2022/23 
 
